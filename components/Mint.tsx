@@ -24,7 +24,7 @@ import {
 } from '../helpers/ipfs';
 
 import mayurimg from "./mayur.jpg"
-import NFT from '../../contracts/out/NFT.sol/NFT.json';
+// import NFT from '../contracts/out/NFT.sol/NFT.json';
 import { backendClient } from "../src/graphql/backendClient"
 import {
   UploadNftContentMutation,

@@ -10,6 +10,7 @@ import { WalletDocument } from "../generated/graphql"
 import { getClientFromSession } from "../src/graphql/getClientFromSession"
 
 
+
 type AuthComponentProps = {
   children: React.ReactNode
   requireAuth: boolean | undefined

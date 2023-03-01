@@ -121,7 +121,7 @@ export default function Header ()
         <div className="flex items-center text-2xl">
           <Link href="/">
             <a>
-              LA<span className="text-green-400">Z</span>ARA
+              XPROMPT <span className="text-green-400"> NFT</span>
             </a>
           </Link>
         </div>

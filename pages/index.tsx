@@ -31,7 +31,7 @@ export default function Home() {
     <div className="flex flex-col items-center pt-8 md:pt-16 bg-black text-white overflow-x-hidden">
       <div className="flex flex-col gap-6 items-center">
         <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-normal  w-3/4 md:w-1/2 text-center ">
-          AI meets Crypto & NFTs. Available for everyone on Tron today.
+          AI meets Crypto & NFTs. Available for everyone on Flow.
         </h1>
         <p className="text-base text-zinc-300 sm:text-lg md:text-xl font-light w-10/12 md:w-7/12 text-center">
           Create collections and generate images with State of the Art diffusion
